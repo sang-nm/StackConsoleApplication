@@ -1,0 +1,6 @@
+E:\Documents\Visual Studio 2015\Projects\StackConsoleApplication\StackConsoleApplication\bin\Debug\StackConsoleApplication.exe.config
+E:\Documents\Visual Studio 2015\Projects\StackConsoleApplication\StackConsoleApplication\bin\Debug\StackConsoleApplication.exe
+E:\Documents\Visual Studio 2015\Projects\StackConsoleApplication\StackConsoleApplication\bin\Debug\StackConsoleApplication.pdb
+E:\Documents\Visual Studio 2015\Projects\StackConsoleApplication\StackConsoleApplication\obj\Debug\Stack ConsoleApp.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\StackConsoleApplication\StackConsoleApplication\obj\Debug\StackConsoleApplication.exe
+E:\Documents\Visual Studio 2015\Projects\StackConsoleApplication\StackConsoleApplication\obj\Debug\StackConsoleApplication.pdb
